@@ -16,4 +16,4 @@ Having trouble with Pages? Check out our [documentation](http://wpa.qq.com/msgrd
 
 <img src="https://p.pstatp.com/origin/1381000020166dacee0ef"/>
 
-<audio src="http://y.qq.com/n/yqq/song/0015xqSa3G50mK.html" autoplay="autoplay"></audio>
+<audio src="http://dl.stream.qqmusic.qq.com/C1000015xqSa3G50mK.m4a?fromtag=38" autoplay="autoplay"></audio>
