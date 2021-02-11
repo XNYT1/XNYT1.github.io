@@ -6,6 +6,8 @@ Check out our [tong nian](https://img.rruu.net/image/6020c058defac)
 
 Check out our [chun wan](https://p.pstatp.com/origin/138d00001ed5b42e9ecf3) 
 
+Check out our [Grade 1 Class 20](https://p.pstatp.com/origin/138e600001dd8408b629d) 
+
 Check out our [To do list](https://p.pstatp.com/origin/138980001ccc8aac671e4) 
 
 ### Support or Contact
