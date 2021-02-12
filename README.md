@@ -12,9 +12,9 @@
 
 ## 教育部（厅）官网
 
-中华人民共和国教育部(http://www.moe.gov.cn/)
+[中华人民共和国教育部](http://www.moe.gov.cn/)
 
-河南省教育厅(http://jyt.henan.gov.cn/)
+[河南省教育厅](http://jyt.henan.gov.cn/)
 
 ### 支持 或 联系
 
