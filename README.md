@@ -16,7 +16,7 @@
 
 [河南省教育厅](http://jyt.henan.gov.cn/)
 
-##全球新冠疫情实时数据地图—Baidu
+### 全球新冠疫情实时数据地图—Baidu
 
 [点击进入](https://voice.baidu.com/act/newpneumonia/newpneumonia)
 
