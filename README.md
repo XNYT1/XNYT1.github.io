@@ -18,7 +18,7 @@ Having trouble with Pages? Check out our [documentation](http://wpa.qq.com/msgrd
 
 <img src="https://p.pstatp.com/origin/1381000020166dacee0ef"/>
 
-<audio src="http://dl.stream.qqmusic.qq.com/C1000043ukZs1CuVDe.m4a?fromtag=38" autoplay="autoplay"></audio>
+<audio src="http://y.qq.com/n/yqq/song/0043ukZs1CuVDe.html" autoplay="autoplay"></audio>
 
 <div id="showtimes"  style="text-align:right;">
     <script language="javascript">show_cur_times();</script>
