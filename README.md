@@ -16,9 +16,12 @@
 
 [河南省教育厅](http://jyt.henan.gov.cn/)
 
+##全球新冠疫情实时数据地图—Baidu
+[点击进入](https://voice.baidu.com/act/newpneumonia/newpneumonia)
+
 ### 支持 或 联系
 
-[1617990747@qq.com]
+[1617990747@qq.com](https://mail.qq.com/cgi-bin/frame_html?sid=RB8se__08ICmaQlp&r=a4f8ad1cfd68c6e43c34643b12f68f10)
 
 Having trouble with Pages? Check out our [documentation](http://wpa.qq.com/msgrd?v=3&uin=1617990747&site=qq&menu=yes)  and we’ll help you sort it out.
 
