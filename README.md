@@ -16,9 +16,21 @@
 
 [河南省教育厅](http://jyt.henan.gov.cn/)
 
-### 全球新冠疫情实时数据地图—Baidu
+### 全球新冠疫情实时数据地图-Baidu
 
 [点击进入](https://voice.baidu.com/act/newpneumonia/newpneumonia)
+
+### 电影热映榜-猫眼电影
+
+[点击进入](https://maoyan.com/board)
+
+### 动漫推荐-樱花动漫
+
+[天气之子](http://www.chinakfa.com/vp/3407-1-1.html)
+
+[一禅小和尚第二季](http://www.chinakfa.com/vp/10552-1-2.html)
+
+[京剧猫之脚踏实地](http://www.chinakfa.com/vp/11900-1-1.html)
 
 ### 支持 或 联系
 
