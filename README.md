@@ -1,6 +1,5 @@
 ## Yun
 
-<img src="https://p.pstatp.com/origin/137bd0000fcd74665d5b3"/>
 <img src="https://p.pstatp.com/origin/137ae0003516b106f33b8"/>
 
 
