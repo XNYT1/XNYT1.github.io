@@ -10,6 +10,8 @@
 
 一张图片关于 [待办事项清单](https://p.pstatp.com/origin/138980001ccc8aac671e4) 
 
+一个短视频关于[待办事项清单](https://mtyy.org/hls/602b2bec3ffa7d37b39988d2.m3u8)
+
 ## 教育部（厅）官网
 
 [中华人民共和国教育部](http://www.moe.gov.cn/)
