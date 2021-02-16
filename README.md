@@ -1,6 +1,8 @@
 ## Yun
 
 <img src="https://p.pstatp.com/origin/137bd0000fcd74665d5b3"/>
+<img src="https://p.pstatp.com/origin/137ae0003516b106f33b8"/>
+
 
 一张图片关于 [童年](https://img.rruu.net/image/6020c058defac) 
 
