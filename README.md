@@ -9,6 +9,8 @@
 
 一个短视频关于[李优然Eileen](https://mtyy.org/hls/602b6ec23ffa7d37b3bd751e.m3u8)
 
+一个短视频关于[花园宝宝](https://mtyy.org/hls/602b744d3ffa7d37b3c15afc.m3u8)
+
 一张图片关于 [高一年级20班励志语录](https://p.pstatp.com/origin/138e600001dd8408b629d) 
 
 一张图片关于 [待办事项清单](https://p.pstatp.com/origin/138980001ccc8aac671e4) 
