@@ -11,9 +11,7 @@
 
 一个短视频关于[花园宝宝](https://mtyy.org/hls/602b744d3ffa7d37b3c15afc.m3u8)
 
-一张图片关于 [高一年级20班励志语录](https://p.pstatp.com/origin/138e600001dd8408b629d) 
-
-一张图片关于 [待办事项清单](https://p.pstatp.com/origin/138980001ccc8aac671e4) 
+一张图片关于 [待办事项清单](https://ae01.alicdn.com/kf/U082bf98768eb48eeabc5608084b28fe4W.jpg) 
 
 一个短视频关于[待办事项清单](https://mtyy.org/hls/602b2bec3ffa7d37b39988d2.m3u8)
 
