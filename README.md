@@ -14,7 +14,9 @@
 
 一张图片关于 [待办事项参考答案2021/03/06](https://ae01.alicdn.com/kf/U72a43994c9a1425c9b71843cdda63a03N.jpg)
 
-一个短视频关于[你的答案 原三班班歌（待修改）](https://mtyy.org/hls/602b2ed93ffa7d37b39aa847.m3u8)
+一个短视频关于[你的答案 原三班班歌（已修改 见下）](https://mtyy.org/hls/602b2ed93ffa7d37b39aa847.m3u8)
+
+一个MV关于[老男孩 原三班班歌（经原三班班长、团支书、文艺委员、Yun等修改，暂以MV作视频，待后续更新）](http://url.amp3a.com/youku.php/XNzQxMDU0MTUy.mp4)
 
 一个短视频关于[河南卫视元宵晚会-Bilibili](https://www.bilibili.com/video/BV17i4y1T7bJ)
 
