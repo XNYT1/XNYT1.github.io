@@ -26,6 +26,7 @@
 
 [王帅龙 打太极](http://v26.douyinvod.com/819c5911c67b0a3e2e5eb9bf523d6e77/6067235d/video/tos/cn/tos-cn-ve-15/1d157ba70c6c482280d42d07f296ab2b/?a=1128&br=4304&bt=1076&btag=3&cd=0%7C0%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=6&er=&l=202104022059110102120770211C143CA0&lr=&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M2RkdWVwbmg6NDMzNGkzM0ApO2Y1OjloZGVkNzg6PDk1ZmcpaGRqbGRoaGRmczQuMTFxMjVmYC0tZC1hc3MvYDFgLWA0Nl4xMl5eNS8wOmNwb2wrbStqdDo%3D&vl=&vr=)
 
+[雷子歌喉之最亲的人](http://v26.douyinvod.com/7237fadeb85d8cf4e8e0d14813223170/60672792/video/tos/cn/tos-cn-ve-15/948550e63de146b3a7300fb03cc3b348/?a=1128&br=11596&bt=2899&btag=3&cd=0%7C0%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=6&er=&l=202104022117390102122011960F1683E0&lr=&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajY0OGZlM2w4MzMzM2kzM0ApNjNlaTU1NDw4NzU1aDhnNmcpaGRqbGRoaGRmM2NrLi1ucW9rYC0tYy0wc3MuLy1jL2MwNC41Ll80YjNeOmNwb2wrbStqdDo%3D&vl=&vr=)
 
 
 ## 投稿及反馈
