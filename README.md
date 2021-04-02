@@ -3,12 +3,6 @@
 <img src="https://ae01.alicdn.com/kf/Uf721bec99fe64e1ba47fbf5bd335c0aai.jpg"/>
 
 
-一张图片关于 [2021年](https://p.pstatp.com/origin/137c1000272cbdfee5199) 
-
-一个短视频关于[李优然Eileen](https://mtyy.org/hls/602b6ec23ffa7d37b3bd751e.m3u8)
-
-一个短视频关于[花园宝宝](https://mtyy.org/hls/602b744d3ffa7d37b3c15afc.m3u8)
-
 一张图片关于 [待办事项清单2021/03/27](https://ae01.alicdn.com/kf/U49535ddbaa6e42d5a24e4a8219ae68bd2.jpg) 
 
 一张图片 [必看！](https://ae01.alicdn.com/kf/U1aa25ca3f24043069d99f67007bd27a1r.jpg)
@@ -24,33 +18,6 @@
 
 [投稿区](https://www.wjx.cn/vm/QsYA1I5.aspx)
 
-
-## 教育部（厅）官网
-
-[中华人民共和国教育部](http://www.moe.gov.cn/)
-
-[河南省教育厅](http://jyt.henan.gov.cn/)
-
-### 全球新冠疫情实时数据地图-Baidu
-
-[点击进入](https://voice.baidu.com/act/newpneumonia/newpneumonia)
-
-### 电影热映榜-猫眼电影
-
-[点击进入](https://maoyan.com/board)
-
-### 动漫推荐-樱花动漫
-
-[天气之子](http://www.chinakfa.com/vp/3407-1-1.html)
-
-[一禅小和尚第二季](http://www.chinakfa.com/vp/10552-1-2.html)
-
-[京剧猫之脚踏实地](http://www.chinakfa.com/vp/11900-1-1.html)
-
-### 你不能错过的宝藏
-
-[李优然Eileen](https://kandian.qq.com/mqq/vue/main?_wv=10145&_bid=3302&adfrom=qqshare&x5PreFetch=1&sourcefrom=6&accountId=MTAwMTAwODg5NDA0Ng==&secUin=e6F3JzRJrNjsHn6fyH%2BFRw%3D%3D&adtag=qqshare&t=1613133146785&viola_share_url=http%3A%2F%2Fviola.qq.com%2Fjs%2Fprofile.js%3F_rij_violaUrl%3D1%26v_bid%3D3740%26v_tid%3D6%26v_bundleName%3Dprofile%26hideNav%3D1%26v_nav_immer%3D1%26accountId%3DMTAwMTAwODg5NDA0Ng%3D%3D
-)
 
 ### 支持 或 联系
 
