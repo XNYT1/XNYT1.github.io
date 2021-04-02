@@ -14,6 +14,14 @@
 一个MV关于[老男孩 原三班班歌（经原三班班长、团支书、文艺委员、Yun等修改，暂以MV作视频，待后续更新）](http://url.amp3a.com/youku.php/XNzQxMDU0MTUy.mp4)
 
 
+## 天空之眼 专栏（王关雷主任douyin作品无水印版）
+
+[睡前吼两声](http://v26.douyinvod.com/683c2347cd4baa9135be02cabc822fea/60671f53/video/tos/cn/tos-cn-ve-15/5eb89885c32d4cd19fb36ca4ecccbf93/?a=1128&br=2572&bt=643&btag=3&cd=0%7C0%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&l=202104022042090102111730885911C37D&lr=&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anllOWQ4bTh3NDMzNGkzM0ApODtpZDs4NGU5Nzo5aGc6PGcpaGRqbGRoaGRmLWllbi9gMDRmYC0tZC0vc3NgXi4uYF82Mi1hXmExYTYzOmNwb2wrbStqdDo%3D&vl=&vr=)
+
+[班主任噢，寝室噢](http://v9.douyinvod.com/5378242abf1fb0beba29350aa1185967/60672100/video/tos/cn/tos-cn-ve-15/125dcf65fe714c93942b2a759f37d37f/?a=1128&br=2492&bt=623&btag=3&cd=0%7C0%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&l=2021040220493301020405513454132295&lr=&mime_type=video_mp4&net=0&pl=0&qs=0&rc=MzQ3bTxmbDdtNDMzNGkzM0ApNTs8aGZoNjs4N2U0NmZnNGcpaGRqbGRoaGRmczZiLTBzc2NlYC0tZC0wc3MvYzBfNF5gYy8yNWEvLzQ2OmNwb2wrbStqdDo%3D&vl=&vr=)
+
+[雷子的女儿 希希](http://v29.douyinvod.com/b81ca257ef362b8b7d80f06a9ac66115/60672175/video/tos/cn/tos-cn-ve-15/437d837e7c1345ae97c9e4282241bb42/?a=1128&br=5576&bt=1394&btag=4&cd=0%7C0%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=6&er=&l=2021040220514201021210710004133BB5&lr=&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amVmN2d3eWtkNDMzaGkzM0ApOWlnNGhpNTxpN2k5OWRkOWcpaGRqbGRoaGRmc2RnYmVqXjBiYC0tMi0wc3M2XzM2L2JgMzJeNWBhLjEzOmNwb2wrbStqdDo%3D&vl=&vr=)
+
 ## 投稿及反馈
 
 [投稿区](https://www.wjx.cn/vm/QsYA1I5.aspx)
