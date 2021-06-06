@@ -1,13 +1,6 @@
 ## Yun
 
-# Site settings
-title: BY Yun                    # 你的博客网站标题
-SEOTitle: Yun的博客 | GK Blog		# SEO 标题
-description: "Hey"	   	   # 随便说点，描述一下
- 
-# Build settings
-# paginate: 10              # 一页你准备放几篇文章
-
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=550138197&auto=1&height=66"></iframe>
 
 
 <audio src="http://url.amp3a.com/kuwo.php/6444571.mp3" autoplay="autoplay"></audio>
