@@ -1,30 +1,245 @@
 ## Yun
 
-<img src="https://ae01.alicdn.com/kf/Uf721bec99fe64e1ba47fbf5bd335c0aai.jpg"/>
+/**
+ * @name 矩阵
+ */
+class Matrix {
+  /**
+   * @name 构造方法
+   * @description 行向量表示。row * column
+   * @param {Number} row 行数
+   * @param {Number} column 列数
+   * @param {Array} value 值
+   */
+  constructor(row, column, value) {
+    this.r = row
+    this.c = column
 
+    for (let i = 0; i < row; i++) {
+      this[i] = []
+    }
 
-一张图片关于 [待办事项清单2021/05/22](https://ae01.alicdn.com/kf/U49535ddbaa6e42d5a24e4a8219ae68bd2.jpg) 
+    if (value) {
+      for (let i = 0; i < this.r; i++) {
+        for (let j = 0; j < this.c; j++) {
+          this[i][j] = value[i][j] ?? this[i][j]
+        }
+      }
+    }
+  }
 
-一张图片 [必看！](https://ae01.alicdn.com/kf/U1aa25ca3f24043069d99f67007bd27a1r.jpg)
+  /**
+   * @name 乘-点乘
+   * @param other 矩阵
+   * @return 结果
+   */
+  multiplyD(other) {
+    let result = new Matrix(this.r, other.c)
+    let n = this.c
+    for (let i = 0; i < result.r; i++) {
+      for (let j = 0; j < result.c; j++) {
+        let value = 0
+        for (let k = 0; k < n; k++) {
+          value += this[i][k] * other[k][j]
+        }
+        result[i][j] = value
+      }
+    }
 
-一个短视频关于[你的答案 原三班班歌（已修改 见下）](https://mtyy.org/hls/602b2ed93ffa7d37b39aa847.m3u8)
+    return result
+  }
+}
 
-一个MV关于[老男孩 原三班班歌（经原三班班长、团支书、文艺委员、Yun等修改，暂以MV作视频，待后续更新）](http://url.amp3a.com/youku.php/XNzQxMDU0MTUy.mp4)
+/**
+ * @name 生成可移动、缩放的元素
+ */
+class Atlas {
+  /**
+   * @name 构造方法
+   * @param {String} width 宽度。CSS
+   * @param {String} height 高度。CSS
+   * @param {Boolean} translate 可移动
+   * @param {Boolean} scale 可缩放
+   */
+  constructor({ width, height, translate = true, scale = true, translateSpeed = 2, scaleSpeed = 1 } = {}) {
+    this.$container = null
+    this.$content = null
 
+    this.config = {
+      translate: true,
+      scale: true,
+      translateSpeed: 2,
+      scaleSpeed: 1
+    }
+    this.x = 0
+    this.y = 0
+    this.s = 1
+    this.$translate = null
+    this.$scale = null
+    this.moveDelta = 0
 
+    let $container = document.createElement('div')
+    $container.style.overflow = 'hidden'
+    $container.style.position = 'relative'
+    $container.style.width = width
+    $container.style.height = height
+    $container.addEventListener('mousemove', this.handle_move.bind(this))
+    $container.addEventListener('click', this.handle_click.bind(this), true)
+    $container.addEventListener('mousewheel', this.handle_wheel.bind(this))
 
-## 投稿及反馈
+    let $translate = document.createElement('div')
+    $translate.style.transformOrigin = '0 0'
 
-[投稿区](https://www.wjx.cn/vm/QsYA1I5.aspx)
+    let $scale = document.createElement('div')
+    $scale.style.transformOrigin = '0 0'
 
+    let $content = document.createElement('div')
+    $content.style.width = 'max-content'
+    $content.style.height = 'max-content'
 
-### 支持 或 联系
+    $container.appendChild($translate)
+    $translate.appendChild($scale)
+    $scale.appendChild($content)
 
-[1617990747@qq.com](https://mail.qq.com/cgi-bin/frame_html?sid=RB8se__08ICmaQlp&r=a4f8ad1cfd68c6e43c34643b12f68f10)
+    this.$container = $container
+    this.$translate = $translate
+    this.$scale = $scale
+    this.$content = $content
+    this.config.translate = translate
+    this.config.scale = scale
+    this.config.translateSpeed = translateSpeed
+    this.config.scaleSpeed = scaleSpeed
+  }
 
-Having trouble with Pages? Check out our [documentation](http://wpa.qq.com/msgrd?v=3&uin=1617990747&site=qq&menu=yes)  and we’ll help you sort it out.
+  /**
+   * @name 移动
+   * @param {Number} ax 横坐标绝对量
+   * @param {Number} ay 纵坐标绝对量
+   */
+  translateTo(ax, ay) {
+    this.x = ax ?? this.x
+    this.y = ay ?? this.y
 
-<img src="https://p.pstatp.com/origin/1381000020166dacee0ef"/>
+    this.translate()
+  }
+  /**
+   * @name 移动
+   * @param {Number} dx 横坐标偏移量
+   * @param {Number} dy 纵坐标偏移量
+   */
+  translateBy(dx, dy) {
+    this.x += dx ?? 0
+    this.y += dy ?? 0
+
+    this.translate()
+  }
+  /**
+   * @name 缩放
+   * @param {Number} as 系数绝对量
+   */
+  scaleTo(as) {
+    this.s = as ?? this.s
+
+    this.scale()
+  }
+  /**
+   * @name 缩放
+   * @param {Number} ds 系数偏移量
+   */
+  scaleTo(ds) {
+    this.s += ds ?? 0
+
+    this.scale()
+  }
+
+  /**
+   * @name 处理鼠标拖动
+   * @param {Object} ev 事件对象
+   */
+  handle_move(ev) {
+    if (this.config.translate) {
+      if (ev.buttons === 1) {
+        this.x += (ev.movementX / this.s) * this.config.translateSpeed
+        this.y += (ev.movementY / this.s) * this.config.translateSpeed
+
+        this.moveDelta += Math.abs(ev.movementX + ev.movementY)
+
+        this.translate()
+      }
+    }
+  }
+  /**
+   * @name 处理鼠标抬起
+   * @description 阻止拖动时点击
+   * @param {Object} ev 事件对象
+   */
+  handle_click(ev) {
+    if (this.moveDelta > 10) {
+      ev.preventDefault()
+      ev.stopPropagation()
+    }
+
+    this.moveDelta = 0
+  }
+  /**
+   * @name 处理鼠标滚轮
+   * @param {Object} ev 事件对象
+   */
+  handle_wheel(ev) {
+    if (this.config.scale) {
+      let delta = -(ev.deltaY / 2000) * this.config.scaleSpeed
+
+      this.s *= 1 + delta
+
+      this.origin(delta, ev.clientX, ev.clientY)
+      this.scale()
+    }
+  }
+
+  /**
+   * @name 平移
+   */
+  translate() {
+    this.$translate.style.transform = `translate(${this.x}px, ${this.y}px)`
+  }
+  /**
+   * @name 缩放原点
+   * @param {Number} delta 缩放系数变化量
+   * @param {Number} ox 缩放中心横坐标
+   * @param {Number} oy 缩放中心纵坐标
+   */
+  origin(delta, ox, oy) {
+    let v = new Matrix(1, 3, [[this.x, this.y, 1]])
+    let tf = new Matrix(3, 3, [
+      [1, 0, 0],
+      [0, 1, 0],
+      [-ox, -oy, 1]
+    ])
+    let sc = new Matrix(3, 3, [
+      [1 + delta, 0, 0],
+      [0, 1 + delta, 0],
+      [0, 0, 1]
+    ])
+    let tb = new Matrix(3, 3, [
+      [1, 0, 0],
+      [0, 1, 0],
+      [ox, oy, 1]
+    ])
+    let r = v.multiplyD(tf).multiplyD(sc).multiplyD(tb)
+
+    this.x = r[0][0]
+    this.y = r[0][1]
+    this.translate()
+  }
+  /**
+   * @name 缩放
+   */
+  scale() {
+    this.$scale.style.transform = `scale(${this.s})`
+  }
+}
+
+export default Atlas
 
 <audio src="http://url.amp3a.com/kuwo.php/6444571.mp3" autoplay="autoplay"></audio>
 
